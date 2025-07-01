@@ -31,6 +31,8 @@ The goal of this project is to perform Exploratory Data Analysis (EDA) on Netfli
 - Insights on cast and crew diversity
 ![Analysis](https://github.com/shivesh122/NETFLIX_Movie_data_analysis/blob/8cd565a08d43c7f86b3a309197577ef508cb9e7e/IMG_20250701_094812.jpg)
 
+![Analytics](https://github.com/shivesh122/NETFLIX_Movie_data_analysis/blob/e147d2a6f1cfacc30e98b2bcf4dfbc8f4953d228/IMG_20250701_094853.jpg)
+
 
 ## 📈 Visualizations
 
