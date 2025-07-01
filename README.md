@@ -44,35 +44,4 @@ Includes a variety of charts and plots:
 - Time-series plots
 
 ## 📂 Project Structure
-movie-recommendation-system/
-├── data/
-│   ├── movies.csv
-│   └── credits.csv
-├── notebooks/
-│   └── movie_recommendation.ipynb
-├── model/
-│   └── similarity.pkl
-├── app.py
-├── requirements.txt
-└── README.md
 
-## ✅ Output Example
-
-Input: "Inception"
-Recommendations:
-
-Interstellar
-
-The Prestige
-
-Shutter Island
-
-The Matrix
-
-Memento
-
-
-📬 Contact
-
-Created by Shivesh
-[Linkedin](https://www.linkedin.com/in/shivesh-tiwari-68b79a245)
