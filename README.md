@@ -29,6 +29,8 @@ The goal of this project is to perform Exploratory Data Analysis (EDA) on Netfli
 - Rating distribution
 - Word cloud for titles and descriptions
 - Insights on cast and crew diversity
+![Analysis](https://github.com/shivesh122/NETFLIX_Movie_data_analysis/blob/8cd565a08d43c7f86b3a309197577ef508cb9e7e/IMG_20250701_094812.jpg)
+
 
 ## 📈 Visualizations
 
